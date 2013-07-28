@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: trix-simplified
+Version: 0.0.0
+Summary: trix_simplified
+Home-page: UNKNOWN
+Author: Jonathan Ringstad
+Author-email: jonathri@student.matnat.uio.no
+License: TBD
+Description: trix_simplified
+        ---------------
+        
+        This repository contains an extracted version of devilrys simplified API.
+        Devilry has deprecated this API, and it is due for removal. To preserve
+        compatibility with Trix, the library is hence available through this repo.
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Indended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python

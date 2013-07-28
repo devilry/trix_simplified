@@ -1,0 +1,10 @@
+README.rst
+setup.py
+tests/__init__.py
+tests/simplified.py
+trix_simplified.egg-info/PKG-INFO
+trix_simplified.egg-info/SOURCES.txt
+trix_simplified.egg-info/dependency_links.txt
+trix_simplified.egg-info/not-zip-safe
+trix_simplified.egg-info/requires.txt
+trix_simplified.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+setuptools
+Django
+devilry
+devilry_theme
+devilry_usersearch
+devilry_extjsextras
+djangorestframework
